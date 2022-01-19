@@ -19,7 +19,7 @@ The idea here is that when our motivations levels are high we can promise oursel
 
 ## Usage
 
-INSTALL `NEAR CLI` first like this: `npm i -g near-cli`
+Install `NEAR CLI` first like this: `npm i -g near-cli`
 
 1. clone this repo to a local folder
 2. run `yarn`

@@ -1,7 +1,7 @@
 {
   "name": "motivator",
   "version": "0.0.1",
-  "description": "Start with a basic project",
+  "description": "This is my first ever smart contact ✨ as part of the NEAR University certification program.",
   "scripts": {
     "dev": "watch -d -n 1 'clear && yarn test'",
     "test": "yarn asp -f unit.spec",
@@ -10,8 +10,8 @@
     "build:release": "asb",
     "asp": "asp --verbose --nologo"
   },
-  "keywords": [],
-  "author": "hello@near.org",
+  "keywords": ["near", "smart contract", "blockchain", "crypto", "defi"],
+  "author": "simplyrahul93@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "near-sdk-as": "^3.1.0",
