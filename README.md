@@ -28,3 +28,7 @@ Install `NEAR CLI` first like this: `npm i -g near-cli`
 4. run `./scripts/3.register-promise.sh`
 5. run `./scripts/4.assess-reward.sh`
 6. run `./scripts/5.cleanup.sh`
+
+## Contact
+
+Check out my other projects at https://edz.vercel.app/
